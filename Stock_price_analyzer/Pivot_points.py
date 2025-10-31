@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import yfinance as yf
 
 def get_updated_price(symbol: str) -> float:
